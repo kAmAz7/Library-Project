@@ -1,0 +1,48 @@
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\bin\Debug\BookLib2.dll
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\bin\Debug\BookLib2.pdb
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\bin\Debug\BookLib2.pri
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\BookLib2.dll
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\BookLib2.pdb
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\priconfig.xml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\priconfig.xml.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\layout.resfiles
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\layout.resfiles.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\resources.resfiles
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\resources.resfiles.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\pri.resfiles
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\pri.resfiles.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\qualifiers.txt
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\qualifiers.txt.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\BookLib2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\bin\Debug\BookLib2.dll
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\bin\Debug\BookLib2.pdb
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\bin\Debug\BookLib2.pri
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\BookLib2.dll
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\BookLib2.pdb
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\priconfig.xml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\priconfig.xml.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\layout.resfiles
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\layout.resfiles.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\resources.resfiles
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\resources.resfiles.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\pri.resfiles
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\pri.resfiles.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\qualifiers.txt
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\qualifiers.txt.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\BookLib2\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\GitHub\Library Project\LibraryProject\BookLib2\bin\Debug\BookLib2.dll
+C:\GitHub\Library Project\LibraryProject\BookLib2\bin\Debug\BookLib2.pdb
+C:\GitHub\Library Project\LibraryProject\BookLib2\bin\Debug\BookLib2.pri
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\BookLib2.dll
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\BookLib2.pdb
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\priconfig.xml
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\priconfig.xml.intermediate
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\layout.resfiles
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\layout.resfiles.intermediate
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\resources.resfiles
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\resources.resfiles.intermediate
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\pri.resfiles
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\pri.resfiles.intermediate
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\qualifiers.txt
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\qualifiers.txt.intermediate
+C:\GitHub\Library Project\LibraryProject\BookLib2\obj\Debug\MultipleQualifiersPerDimensionFound.txt

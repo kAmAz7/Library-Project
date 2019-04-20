@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-J2GJ0RU</Machine>
+    <WindowsUser>Andrey7</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2ce7b71e-2c70-4524-ad67-e88a45d20d94</PackageIdentityName>
+    <PackageIdentityPublisher>CN=shayshabtay</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.exe">
+      <PackagePath>LibraryProject.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\BookLib2\bin\Debug\BookLib2.dll">
+      <PackagePath>BookLib2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\UserLib2\bin\Debug\UserLib2.dll">
+      <PackagePath>UserLib2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\AddBookBackGround.jpg">
+      <PackagePath>Assets\AddBookBackGround.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\AddUserBackGround.jpg">
+      <PackagePath>Assets\AddUserBackGround.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\BackGround.jpg">
+      <PackagePath>Assets\BackGround.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\CustomerPageBackground.jpg">
+      <PackagePath>Assets\CustomerPageBackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\EmployeePageBackground.jpg">
+      <PackagePath>Assets\EmployeePageBackground.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.xr.xml">
+      <PackagePath>LibraryProject.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddBook.xbf">
+      <PackagePath>AddBook.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddUser.xbf">
+      <PackagePath>AddUser.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\CustomerMainPage.xbf">
+      <PackagePath>CustomerMainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\EmployeeMainPage.xbf">
+      <PackagePath>EmployeeMainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-J2GJ0RU</Machine>
+    <WindowsUser>Andrey7</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2ce7b71e-2c70-4524-ad67-e88a45d20d94</PackageIdentityName>
+    <PackageIdentityPublisher>CN=shayshabtay</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>816B6ACCE687489B7B3F7414216851C0F3C26AA97E176987FEB05ABFBD4074B9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2ce7b71e-2c70-4524-ad67-e88a45d20d94_1.0.0.0_neutral__a78wz2rpcqpa6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2ce7b71e-2c70-4524-ad67-e88a45d20d94_a78wz2rpcqpa6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2ce7b71e-2c70-4524-ad67-e88a45d20d94</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=shayshabtay</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-19T22:51:16.199</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.exe">
+      <PackagePath>LibraryProject.Windows.exe</PackagePath>
+      <Modified>2019-04-19T22:51:15.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\BookLib2\bin\Debug\BookLib2.dll">
+      <PackagePath>BookLib2.dll</PackagePath>
+      <Modified>2019-04-19T22:51:13.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\UserLib2\bin\Debug\UserLib2.dll">
+      <PackagePath>UserLib2.dll</PackagePath>
+      <Modified>2019-04-19T22:51:14.173</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\AddBookBackGround.jpg">
+      <PackagePath>Assets\AddBookBackGround.jpg</PackagePath>
+      <Modified>2018-02-18T07:17:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\AddUserBackGround.jpg">
+      <PackagePath>Assets\AddUserBackGround.jpg</PackagePath>
+      <Modified>2018-02-17T23:31:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\BackGround.jpg">
+      <PackagePath>Assets\BackGround.jpg</PackagePath>
+      <Modified>2018-02-12T16:34:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\CustomerPageBackground.jpg">
+      <PackagePath>Assets\CustomerPageBackground.jpg</PackagePath>
+      <Modified>2018-02-15T16:04:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\EmployeePageBackground.jpg">
+      <PackagePath>Assets\EmployeePageBackground.jpg</PackagePath>
+      <Modified>2018-02-17T13:35:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.xr.xml">
+      <PackagePath>LibraryProject.Windows.xr.xml</PackagePath>
+      <Modified>2019-04-19T20:13:16.196</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-04-19T22:51:15.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddBook.xbf">
+      <PackagePath>AddBook.xbf</PackagePath>
+      <Modified>2019-04-19T22:51:15.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddUser.xbf">
+      <PackagePath>AddUser.xbf</PackagePath>
+      <Modified>2019-04-19T22:51:15.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\CustomerMainPage.xbf">
+      <PackagePath>CustomerMainPage.xbf</PackagePath>
+      <Modified>2019-04-19T22:51:15.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\EmployeeMainPage.xbf">
+      <PackagePath>EmployeeMainPage.xbf</PackagePath>
+      <Modified>2019-04-19T22:51:15.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-04-19T22:51:15.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-04-19T22:51:16.053</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,180 @@
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\App.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\MainPage.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.xr.xml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.exe
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.pdb
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\resources.pri
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AppxManifest.xml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.build.appxrecipe
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.g.i.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.g.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.g.i.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.g.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.xaml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.xaml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.exe
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.pdb
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\priconfig.xml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\layout.resfiles
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\resources.resfiles
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\pri.resfiles
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\qualifiers.txt
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\CustomerMainPage.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.g.i.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.g.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.xaml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.csprojResolveAssemblyReference.cache
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.dll
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.dll
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.pdb
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.pri
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.pdb
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.pri
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.csproj.GenerateResource.Cache
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\EmployeeMainPage.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.g.i.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.g.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.xaml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.g.i.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.g.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.g.i.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.g.cs
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.xaml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.xaml
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddBook.xbf
+C:\Dev\03.C# In Depth OOP\Projects\LibraryProject\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddUser.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\App.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddBook.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddUser.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\CustomerMainPage.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\EmployeeMainPage.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\MainPage.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.xr.xml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.exe
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.pdb
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\resources.pri
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AppxManifest.xml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.build.appxrecipe
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.dll
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.dll
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.pdb
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.pri
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.pdb
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.pri
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.csprojResolveAssemblyReference.cache
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.g.i.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.g.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.g.i.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.g.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.g.i.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.g.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.g.i.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.g.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.g.i.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.g.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.g.i.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.g.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.xaml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.xaml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.xaml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.xaml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.xaml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.xaml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.xbf
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.exe
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.pdb
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.csproj.GenerateResource.Cache
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\priconfig.xml
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\priconfig.xml.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\layout.resfiles
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\layout.resfiles.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\resources.resfiles
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\resources.resfiles.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\pri.resfiles
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\pri.resfiles.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\qualifiers.txt
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\C#.NET\Michal - Object Oriented In Depth\Final Project 50150\ProjectLibrary\ProjectLibrary-Friends\Shay\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\ProjectArchitectures.txt
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\App.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddBook.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddUser.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\CustomerMainPage.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\EmployeeMainPage.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\MainPage.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.xr.xml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.exe
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.pdb
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\resources.pri
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AppxManifest.xml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.build.appxrecipe
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.dll
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.dll
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.pdb
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\BookLib2.pri
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.pdb
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\UserLib2.pri
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.csprojResolveAssemblyReference.cache
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.g.i.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.g.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.g.i.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.g.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.g.i.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.g.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.g.i.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.g.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.g.i.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.g.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.g.i.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.g.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.xaml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.xaml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.xaml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.xaml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.xaml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.xaml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\App.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddBook.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\AddUser.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\CustomerMainPage.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\EmployeeMainPage.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MainPage.xbf
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.exe
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.pdb
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\LibraryProject.Windows.csproj.GenerateResource.Cache
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\priconfig.xml
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\priconfig.xml.intermediate
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\layout.resfiles
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\layout.resfiles.intermediate
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\resources.resfiles
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\resources.resfiles.intermediate
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\pri.resfiles
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\pri.resfiles.intermediate
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\qualifiers.txt
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\obj\Debug\ProjectArchitectures.txt
