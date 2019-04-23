@@ -32,13 +32,12 @@ namespace LibraryProject
 
         #region Events
         protected override void OnNavigatedTo(NavigationEventArgs e)
-        { //Transfer the user ID from the registration screen
+        { 
             _userID = (Guid)e.Parameter;
         }
 
         private async void searchItemBox_QuerySubmitted(SearchBox sender, SearchBoxQuerySubmittedEventArgs args)
         {
-            //Data members
             string type = chooseItemCbox.SelectedItem.ToString();
             ItemType enumType;
             Enum.TryParse(type, out enumType);
@@ -46,7 +45,7 @@ namespace LibraryProject
             string inputText = searchItemBox.QueryText;
 
             try
-            { //Send search information to the shared search class (common folder/search engine class)
+            { 
                 _items = _itemSearch.SearchExecuter(enumType, category, inputText);
                 showResultLbox.ItemsSource = _items;
             }
@@ -65,7 +64,6 @@ namespace LibraryProject
 
         private async void rentBookBtn_Click(object sender, RoutedEventArgs e)
         {
-            //input validation
             IItem itemToRent = (IItem)showResultLbox.SelectedItem;
             if (itemToRent == null)
                 await new MessageDialog("Please select an Item to borrow").ShowAsync();  
@@ -73,16 +71,13 @@ namespace LibraryProject
                 await new MessageDialog("This Item is not available in the stock at the moment").ShowAsync();
             else
             {
-                //Transfer Book Rental
                 manager.RentNewItem(_userID, itemToRent);
                 await new MessageDialog("Thank you for borrowing this Item!! \nHave fun!!!").ShowAsync();
-                //await new MessageDialog("Thank you for borrowing!! \nHave fun!!!", itemToRent.Name).ShowAsync();
-
             }
         }
 
         private async void showRentedBtn_Click(object sender, RoutedEventArgs e)
-        { //View the books I am currently renting
+        { 
             try
             {
                 _items = manager.ShowRentedItems(_userID);
@@ -95,17 +90,15 @@ namespace LibraryProject
             {
                 await new MessageDialog("You don't have any borrowed Items to return").ShowAsync();
             }
-
         }
 
         private async void returnBookBtn_Click(object sender, RoutedEventArgs e)
         {
-            //Input validation
             IItem itemToReturn = (IItem)showResultLbox.SelectedItem;
             if (itemToReturn == null)
                 await new MessageDialog("Please select an Item to return").ShowAsync();
             else try
-                { //Transfer information to return a book
+                { 
                     manager.ReturnItem(_userID, itemToReturn);
                     _items = manager.ShowRentedItems(_userID);
                     showResultLbox.ItemsSource = _items;
@@ -122,7 +115,6 @@ namespace LibraryProject
                 {
                     await new MessageDialog("You can't return an Item that you did'nt borrow").ShowAsync();
                 }
-
         }
 
         private void logOutBtn_Click(object sender, RoutedEventArgs e)

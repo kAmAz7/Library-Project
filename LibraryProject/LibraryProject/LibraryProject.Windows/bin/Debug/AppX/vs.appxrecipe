@@ -34,15 +34,15 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.exe">
       <PackagePath>LibraryProject.Windows.exe</PackagePath>
-      <Modified>2019-04-19T22:51:15.774</Modified>
+      <Modified>2019-04-23T01:33:24.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\BookLib2\bin\Debug\BookLib2.dll">
       <PackagePath>BookLib2.dll</PackagePath>
-      <Modified>2019-04-19T22:51:13.030</Modified>
+      <Modified>2019-04-23T01:33:22.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\UserLib2\bin\Debug\UserLib2.dll">
       <PackagePath>UserLib2.dll</PackagePath>
-      <Modified>2019-04-19T22:51:14.173</Modified>
+      <Modified>2019-04-23T01:33:22.929</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\AddBookBackGround.jpg">
       <PackagePath>Assets\AddBookBackGround.jpg</PackagePath>
@@ -94,15 +94,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddBook.xbf">
       <PackagePath>AddBook.xbf</PackagePath>
-      <Modified>2019-04-19T22:51:15.622</Modified>
+      <Modified>2019-04-23T01:33:24.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\AddUser.xbf">
       <PackagePath>AddUser.xbf</PackagePath>
-      <Modified>2019-04-19T22:51:15.623</Modified>
+      <Modified>2019-04-23T01:33:24.470</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\CustomerMainPage.xbf">
       <PackagePath>CustomerMainPage.xbf</PackagePath>
-      <Modified>2019-04-19T22:51:15.624</Modified>
+      <Modified>2019-04-23T01:33:24.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\EmployeeMainPage.xbf">
       <PackagePath>EmployeeMainPage.xbf</PackagePath>
@@ -110,7 +110,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-04-19T22:51:15.626</Modified>
+      <Modified>2019-04-23T01:33:24.473</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

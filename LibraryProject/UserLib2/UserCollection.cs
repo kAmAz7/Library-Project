@@ -31,7 +31,7 @@ namespace Users
 
         #region Public Methods
         internal void AddUser(IUser newUser)
-        { //Add a new user to the list of users
+        { 
             if (newUser != null
                 && !string.IsNullOrEmpty(newUser.Name)
                 && !string.IsNullOrEmpty(newUser.Password))
@@ -58,7 +58,7 @@ namespace Users
 
         #region Private Methods
         private Guid ParseUserId(string userId)
-        { //Convert the user ID to characters
+        { 
             if (string.IsNullOrWhiteSpace(userId))
                 throw new ArgumentNullException("UserId is null or empty");
             Guid temp;

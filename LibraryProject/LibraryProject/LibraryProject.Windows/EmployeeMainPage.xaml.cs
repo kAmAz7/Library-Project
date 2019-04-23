@@ -46,7 +46,7 @@ namespace LibraryProject
         }
 
         private async void removeBookBtn_Click(object sender, RoutedEventArgs e)
-        { //Transfer information to remove a book from the system 
+        {  
             try
                 {
                     IItem itemToRemove = (IItem)showResultLbox.SelectedItem;
@@ -72,7 +72,7 @@ namespace LibraryProject
         }
 
         private async void removeUserBtn_Click(object sender, RoutedEventArgs e)
-        { //Transfer information to remove a user from the system
+        { 
             try
             {
                 IUser userToRemove = (IUser)showResultLbox.SelectedItem;
@@ -99,7 +99,6 @@ namespace LibraryProject
 
         private async void searchItemBox_QuerySubmitted(SearchBox sender, SearchBoxQuerySubmittedEventArgs args)
         {
-            //Data members
             string type = chooseItemCbox.SelectedItem.ToString();
             ItemType enumType;
             Enum.TryParse(type, out enumType);
@@ -107,7 +106,7 @@ namespace LibraryProject
             string inputText = searchItemBox.QueryText;
 
             try
-            { //Send search information to the shared search class (common folder/search engine class)
+            { 
                 _items = _itemSearch.SearchExecuter(enumType, category, inputText);
                 showResultLbox.ItemsSource = _items;
             }
@@ -125,7 +124,7 @@ namespace LibraryProject
         }
 
         private async void searchUserBox_QuerySubmitted(SearchBox sender, SearchBoxQuerySubmittedEventArgs args)
-        { //User search by type and category
+        { 
             string type = ((ListBoxItem)chooseUserTypeCbox.SelectedItem).Content.ToString();
             if (type == "All") type = "None";
             UserType enumType;

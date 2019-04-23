@@ -20,7 +20,6 @@
         <TextBox x:Name="userNameTbox" HorizontalAlignment="Left" Height="56" Margin="425,280,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="300" FontSize="30" PlaceholderText="Username" FontFamily="Global User Interface"/>
         <PasswordBox x:Name="passwordTbox" HorizontalAlignment="Left" Height="54" Margin="425,416,0,0" VerticalAlignment="Top" Width="300" FontSize="30" PlaceholderText="Password"/>
         <TextBlock x:Name="erorMessageTbl" HorizontalAlignment="Left" Height="130" Margin="252,492,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="676" FontSize="40" Foreground="Yellow" FontWeight="Bold" TextAlignment="Center"/>
-
     </Grid>
 </Page>
 

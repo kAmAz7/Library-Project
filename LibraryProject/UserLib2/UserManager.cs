@@ -37,7 +37,7 @@ namespace Users
         #region Public Methods
 
         public void RegisterNewUser(IUser user)
-        { //Getting a template and creating a new user
+        { 
             if (!_collection.IsUserExist(user.Name))
             {
                 User tmpUser = new User(user.Name, user.Password, user.Type);
@@ -47,7 +47,7 @@ namespace Users
         }
 
         public UserType CheckUserDetails(string Name, string Password,out Guid userId)
-        { //Check user information for login confirmation
+        { 
             IUser tmp = null;
             try
             {
@@ -68,13 +68,13 @@ namespace Users
         }
 
         public bool RemoveUser(IUser user)
-        { //Remove an existing user from the system
+        { 
             string id = user.UserId.ToString();
             return _collection.RemoveUserByUserId(id);
         }
 
         public List<IUser> GetAllUsers(UserType type = UserType.None)
-        { //Returns a list of all users according to the selected type
+        { 
             switch (type)
             {
                 case UserType.None:
@@ -86,11 +86,10 @@ namespace Users
                 default:
                     throw new InvalidOperationException("Invalid type");
             }
-
         }
 
         public List<IUser> GetUsersByName(string name, UserType type)
-        { //User search by name and selected type
+        { 
             switch (type)
             {
                 case UserType.None:
@@ -102,7 +101,6 @@ namespace Users
                 default:
                     throw new InvalidOperationException("Invalid type");
             }
-
         }
         #endregion
     }

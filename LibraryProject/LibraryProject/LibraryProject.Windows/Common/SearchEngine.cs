@@ -17,7 +17,7 @@ namespace LibraryProject.Common
 
         #region Public Methods
         public List<IItem> SearchExecuter(ItemType enumType, string category, string inputText)
-        { //Search items in the system by item type and category
+        { 
             switch (category)
             {
                 case ("All"):

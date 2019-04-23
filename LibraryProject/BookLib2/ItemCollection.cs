@@ -32,7 +32,7 @@ namespace BookLib
 
         
         internal void AddItem(IItem item)
-        {//Validates the item and adds it to the collection
+        {
             Exception ex;
             if (ValidateItem(item, out ex))
                 _items.Add(item.ISBN,item);
@@ -42,17 +42,17 @@ namespace BookLib
 
         internal bool RemoveItemByISBN(string ISBN)
         {
-            Guid temp = parseISBN(ISBN); //Checks that ISBN exists and correct
+            Guid temp = parseISBN(ISBN); 
             return _items.Remove(temp);
         }
 
         internal bool SearchUser(Guid userId)
-        { //Checks whether the user already exists in the list
+        { 
             return (_rentCollection.ContainsKey(userId));
         }
 
         internal void UpdateCopyNumber(IItem itemToRent, bool isRent)
-        { //Updates the number of copies of the book by rental or return action
+        { 
             Guid ISBN = itemToRent.ISBN;
             if (isRent)
                 _items[ISBN].CopyNumber--;

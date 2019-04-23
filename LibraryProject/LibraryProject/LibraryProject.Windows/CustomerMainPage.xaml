@@ -36,6 +36,5 @@
         <Button x:Name="rentBookBtn" Content="Borrow Item" HorizontalAlignment="Left" Height="70" Margin="866,605,0,0" VerticalAlignment="Top" Width="322" Background="#FFEAEA09" Foreground="#FF0792B1" FontSize="30" Click="rentBookBtn_Click"/>
         <Button x:Name="returnBookBtn" HorizontalAlignment="Left" Height="70" Margin="84,605,0,0" VerticalAlignment="Top" Width="309" Background="#FFEAEA09" Foreground="#FF0792B1" FontSize="30" Click="returnBookBtn_Click" Content="Return Item"/>
         <Button x:Name="showRentedBtn" Content="Show Borrowed Items" HorizontalAlignment="Left" Height="70" Margin="460,605,0,0" VerticalAlignment="Top" Width="345" Background="#FFEAEA09" Foreground="#FF0792B1" FontSize="30" Click="showRentedBtn_Click"/>
-
     </Grid>
 </Page>

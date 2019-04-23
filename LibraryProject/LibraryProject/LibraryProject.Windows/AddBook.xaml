@@ -29,6 +29,5 @@
         <TextBlock x:Name="dateTitleTbl" HorizontalAlignment="Left" Height="44" Margin="360,361,0,0" TextWrapping="Wrap" Text="Printed Date:" VerticalAlignment="Top" Width="248" FontSize="40" Foreground="Black" FontWeight="Bold"/>
         <TextBox x:Name="authorTbox" HorizontalAlignment="Left" Height="54" Margin="389,447,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" PlaceholderText="author/Editor" FontSize="30"/>
         <TextBox x:Name="editionTbox" HorizontalAlignment="Left" Height="54" Margin="653,447,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="208" PlaceholderText="Edition" FontSize="30"/>
-
     </Grid>
 </Page>

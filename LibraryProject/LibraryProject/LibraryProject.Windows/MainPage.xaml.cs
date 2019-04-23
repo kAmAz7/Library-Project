@@ -32,7 +32,7 @@ namespace LibraryProject
             {
                 UserType Type;
                 Guid userID = default(Guid);
-                Type = manager.CheckUserDetails(userName, password,out userID); // Checks whether the username and password exist and match each other and returns "UserType.None" if it is not found.
+                Type = manager.CheckUserDetails(userName, password,out userID); 
                 if (Type == UserType.None)
                     erorMessageTbl.Text = "'Username' or 'Password' incorrect!!";
                 else if (Type == UserType.Customer)
@@ -40,7 +40,6 @@ namespace LibraryProject
                 else if (Type == UserType.Employee)
                     this.Frame.Navigate(typeof(EmployeeMainPage));
             }
-
         }
 
         private void Exit_Click(object sender, RoutedEventArgs e)

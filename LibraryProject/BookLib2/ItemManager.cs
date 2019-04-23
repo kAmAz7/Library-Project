@@ -14,12 +14,12 @@ namespace BookLib
 
         #region Properties
         public static IJournal EmptyJournal
-        { //Create an empty template to fill in the user interface
+        { 
             get { return new Journal(); }
         }
 
         public static IBook EmptyBook
-        { //Create an empty template to fill in the user interface
+        { 
             get { return new Book(); }
         }
         #endregion
@@ -42,14 +42,14 @@ namespace BookLib
         #region Public Methods
        
         public void RegisterNewBook(IBook newBook)
-        {  //Accept the template after filling and creating a new item
+        {  
             newBook = new Book(newBook.Author, newBook.Genre, newBook.Edition, newBook.Name,
                                newBook.CopyNumber, newBook.PrintDate, newBook.Price);
             _collection.AddItem(newBook);
         }
 
         public void RegisterNewJournal(IJournal newJournal)
-        { //Accept the template after filling and creating a new item
+        { 
             newJournal = new Journal(newJournal.Genre, newJournal.Editor, newJournal.Name,
                                      newJournal.CopyNumber, newJournal.PrintDate, newJournal.Price);
             _collection.AddItem(newJournal);
@@ -61,7 +61,7 @@ namespace BookLib
         }
 
         public List<IItem> GetAllItems(ItemType type = ItemType.All)
-        { //Send all existing information according to the selected type
+        { 
             switch (type)
             {
                 case ItemType.All:
@@ -155,7 +155,7 @@ namespace BookLib
         }
 
         public void ReturnItem(Guid userId, IItem itemToReturn)
-        { //Returns an item that is in rental mode
+        { 
             bool isRent = false;
             _collection.UpdateCopyNumber(itemToReturn, isRent);
             Guid ISBN = itemToReturn.ISBN;

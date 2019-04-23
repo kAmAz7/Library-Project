@@ -31,7 +31,6 @@ namespace LibraryProject
 
         private async void createBtn_Click(object sender, RoutedEventArgs e)
         {
-            //Data members and input Check 
             string Type = userTypeCbox.SelectedItem.ToString();
             string userName = usernameTbox.Text;
             string password = passwordTbox.Text;
@@ -48,7 +47,7 @@ namespace LibraryProject
                 erorMessageTbl.Text = "Please select 'User' type";
 
             else
-            { //Transfer data to create a new user
+            { 
                 UserType chosenType;
                 Enum.TryParse(Type, out chosenType);
                 IUser newUser = CreateNewUserData(userName, password, chosenType);
@@ -75,7 +74,7 @@ namespace LibraryProject
 
         #region Private Methods
         private IUser CreateNewUserData(string name, string  password, UserType type)
-        { //Fill in a template to create a new user
+        { 
             IUser newUser = UserManager.Empty;
             newUser.Name = name;
             newUser.Password = password;

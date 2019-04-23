@@ -18,8 +18,8 @@ namespace LibraryProject
         public AddBook()
         {
             this.InitializeComponent();
-            typeCbox.ItemsSource = Enum.GetValues(typeof(ItemType)).Cast<ItemType>(); //Accepts the types of books that exist in the system and puts them in Combo Box
-            typeCbox.SelectedItem = ItemType.All; //Set a default value when loading the page
+            typeCbox.ItemsSource = Enum.GetValues(typeof(ItemType)).Cast<ItemType>(); 
+            typeCbox.SelectedItem = ItemType.All; 
             editionTbox.IsEnabled = false;
         }
         #endregion
@@ -35,7 +35,6 @@ namespace LibraryProject
 
             switch (typeCbox.SelectedItem.ToString())
             {
-                //Defines the Combo Box "categories" according to the ComboBox selection of the book type
                 case ("Book"):
                     {
                         editionTbox.IsEnabled = true;
@@ -68,7 +67,6 @@ namespace LibraryProject
 
         private async void createBtn_Click(object sender, RoutedEventArgs e)
         {
-            //Data Members
             string itemType = typeCbox.SelectedItem.ToString();
             ItemType enumItemType;
             Enum.TryParse(itemType, out enumItemType);
@@ -82,7 +80,6 @@ namespace LibraryProject
             string edition = editionTbox.Text;
             DateTime printDate = printDateDpick.Date.DateTime;
 
-            //Check whether the entered data is valid
             if (enumItemType == ItemType.All)
                 erorMessageTbl.Text = "Please select Item's type";
             else if (Category == "None")
@@ -100,7 +97,6 @@ namespace LibraryProject
             else if (itemType == "Book" && string.IsNullOrWhiteSpace(edition))
                 erorMessageTbl.Text = "Please enter an Edition";
 
-            //Create an object according to the selected type
             else try
             {
                 if (enumItemType == ItemType.Book)
@@ -108,7 +104,6 @@ namespace LibraryProject
                     BookCategory enumCategory;
                     Enum.TryParse(Category, out enumCategory);
 
-                    //Receiving an empty template of the correct interface and filling in the data
                     IBook newBook = CreateNewBookData(enumCategory, name, price,
                                     copyNumber, author, printDate, edition);
                     _manager.RegisterNewBook(newBook);
@@ -121,7 +116,6 @@ namespace LibraryProject
                     JournalCategory enumCategory;
                     Enum.TryParse(Category, out enumCategory);
 
-                    //Receiving an empty template of the correct interface and filling in the data
                     IJournal newJournal = CreateNewJournalData(enumCategory, name, price,
                                           copyNumber, printDate, edition, author);
                     _manager.RegisterNewJournal(newJournal);
@@ -144,7 +138,7 @@ namespace LibraryProject
         #region Private Methods
         private IBook CreateNewBookData(BookCategory BookChosenCategory, string name,double price,
             int copyNumber,string author,DateTime printDate,string edition)
-        { //Fill the template to create a new item
+        { 
             IBook newBook = ItemManager.EmptyBook;
             newBook.Genre = BookChosenCategory;
             newBook.Name = name;
@@ -159,7 +153,7 @@ namespace LibraryProject
 
         private IJournal CreateNewJournalData(JournalCategory JournalchosenCategory, string name, double price,
            int copyNumber, DateTime printDate, string edition,string editor)
-        { //Fill the template to create a new item
+        { 
             IJournal newJournal = ItemManager.EmptyJournal;
             newJournal.Genre = JournalchosenCategory;
             newJournal.Name = name;

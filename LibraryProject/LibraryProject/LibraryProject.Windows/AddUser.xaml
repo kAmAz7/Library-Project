@@ -22,6 +22,5 @@
         <TextBox x:Name="confirmPassTbox" HorizontalAlignment="Left" Height="74" Margin="466,393,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="354" PlaceholderText="Confirm Password" FontSize="40"/>
         <ComboBox x:Name="userTypeCbox" HorizontalAlignment="Left" Height="64" Margin="466,496,0,0" VerticalAlignment="Top" Width="354" FontSize="30"/>
         <TextBlock x:Name="erorMessageTbl" HorizontalAlignment="Left" Height="93" Margin="365,571,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="544" FontSize="35" Foreground="Yellow" FontWeight="Bold" TextAlignment="Center"/>
-
     </Grid>
 </Page>
