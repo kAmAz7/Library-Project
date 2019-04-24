@@ -34,15 +34,15 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\bin\Debug\LibraryProject.Windows.exe">
       <PackagePath>LibraryProject.Windows.exe</PackagePath>
-      <Modified>2019-04-23T01:33:24.597</Modified>
+      <Modified>2019-04-24T02:00:40.391</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\BookLib2\bin\Debug\BookLib2.dll">
       <PackagePath>BookLib2.dll</PackagePath>
-      <Modified>2019-04-23T01:33:22.929</Modified>
+      <Modified>2019-04-24T02:00:38.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\UserLib2\bin\Debug\UserLib2.dll">
       <PackagePath>UserLib2.dll</PackagePath>
-      <Modified>2019-04-23T01:33:22.929</Modified>
+      <Modified>2019-04-24T02:00:38.612</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\GitHub\Library Project\LibraryProject\LibraryProject\LibraryProject.Windows\Assets\AddBookBackGround.jpg">
       <PackagePath>Assets\AddBookBackGround.jpg</PackagePath>
